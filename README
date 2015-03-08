@@ -12,7 +12,7 @@ then
 
 $ repo sync
 
-Run updates.sh from /vendor/LegacyXperiaAOSP/extras before build and apply this change manually https://github.com/CyanogenMod/android_external_chromium_org/commit/faebc79552c8867295203c88d804c1f56c39114c (I will add it to repo ASAP)
+Run updates.sh from /vendor/LegacyXperiaAOSP/extras before build and apply this change manually https://github.com/CyanogenMod/android_external_chromium_org/commit/faebc79552c8867295203c88d804c1f56c39114c (I will add it to repo ASAP). This one needs to be reverted in android_build to fix boot: https://github.com/CyanogenMod/android_build/commit/4b86ea582b77fc2bd8a0811b5af7ada28a0b59fb 
 
 NOTICE:
 
