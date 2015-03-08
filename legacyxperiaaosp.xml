@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="build" name="mikegapinski/android_build" groups="pdk,tradefed" revision="lollipop" >
+  <project path="build" name="CyanogenMod/android_build" groups="pdk,tradefed" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project name="LegacyXperiaAOSP/android_external_busybox" path="external/busybox" revision="lollipop"/>
