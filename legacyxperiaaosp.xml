@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="build" name="mikegapinski/android_build" groups="pdk,tradefed" revision="lollipop" >
+    <copyfile src="core/root.mk" dest="Makefile" />
+  </project>
+  <project name="LegacyXperiaAOSP/android_external_busybox" path="external/busybox" revision="lollipop"/>
+  <project name="LegacyXperiaAOSP/android_frameworks_base" path="frameworks/base" groups="pdk" revision="lollipop"/>
+  <project name="LegacyXperiaAOSP/android_frameworks_av" path="frameworks/av" groups="pdk" revision="lollipop"/>
+  <project name="LegacyXperiaAOSP/android_frameworks_native" path="frameworks/native" groups="pdk" revision="lollipop"/>
+  <project name="LegacyXperiaAOSP/android_hardware_libhardware" path="hardware/libhardware" groups="pdk" revision="lollipop" />
+  <project name="LegacyXperiaAOSP/android_hardware_ti_wlan" path="hardware/ti/wlan" revision="lollipop" />
+  <project name="LegacyXperiaAOSP/android_packages_apps_Dialer" path="packages/apps/Dialer" revision="lollipop"/>
+  <project name="LegacyXperiaAOSP/android_packages_apps_InCallUI" path="packages/apps/InCallUI" revision="lollipop"/>
+  <project name="LegacyXperiaAOSP/android_vendor_LegacyXperiaAOSP" path="vendor/LegacyXperiaAOSP" remote="github" revision="lollipop" />
+  <project name="LegacyXperiaAOSP/android_device_semc_msm7x30-common" path="device/semc/msm7x30-common" remote="github" revision="lollipop" />
+  <project name="LegacyXperiaAOSP/android_device_semc_mogami-common" path="device/semc/mogami-common" remote="github" revision="lollipop" />
+  <project name="LegacyXperiaAOSP/android_device_semc_haida" path="device/semc/haida" remote="github" revision="lollipop" />
+</manifest>
