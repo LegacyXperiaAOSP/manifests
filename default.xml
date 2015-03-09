@@ -294,6 +294,8 @@
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" remote="aosp" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" remote="aosp" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" />
+  <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" remote="aosp" />
+  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" remote="aosp" />
   <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" remote="aosp" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" remote="aosp" />
   <project path="packages/apps/ManagedProvisioning" name="platform/packages/apps/ManagedProvisioning" remote="aosp" />
