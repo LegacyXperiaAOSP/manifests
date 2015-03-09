@@ -11,6 +11,7 @@
   <project name="LegacyXperiaAOSP/android_hardware_ti_wlan" path="hardware/ti/wlan" revision="lollipop" />
   <project name="LegacyXperiaAOSP/android_packages_apps_Dialer" path="packages/apps/Dialer" revision="lollipop"/>
   <project name="LegacyXperiaAOSP/android_packages_apps_InCallUI" path="packages/apps/InCallUI" revision="lollipop"/>
+  <project name="LegacyXperiaAOSP/android_packages_apps_Mms" path="packages/apps/Mms" revision="lollipop"/>
   <project name="LegacyXperiaAOSP/android_vendor_LegacyXperiaAOSP" path="vendor/LegacyXperiaAOSP" remote="github" revision="lollipop" />
   <project name="LegacyXperiaAOSP/android_device_semc_msm7x30-common" path="device/semc/msm7x30-common" remote="github" revision="lollipop" />
   <project name="LegacyXperiaAOSP/android_device_semc_mogami-common" path="device/semc/mogami-common" remote="github" revision="lollipop" />
