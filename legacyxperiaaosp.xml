@@ -5,8 +5,8 @@
   </project>
   <project name="LegacyXperiaAOSP/android_external_busybox" path="external/busybox" revision="lollipop"/>
   <project name="LegacyXperiaAOSP/android_frameworks_base" path="frameworks/base" groups="pdk" revision="lollipop-mr1"/>
-  <project name="LegacyXperiaAOSP/android_frameworks_av" path="frameworks/av" groups="pdk" revision="lollipop-mr1"/>
-  <project name="LegacyXperiaAOSP/android_frameworks_native" path="frameworks/native" groups="pdk" revision="lollipop-mr1"/>
+  <project name="CyanogenMod/android_frameworks_av" path="frameworks/av" groups="pdk" />
+  <project name="CyanogenMod/android_frameworks_native" path="frameworks/native" groups="pdk" />
   <project name="LegacyXperiaAOSP/android_hardware_libhardware" path="hardware/libhardware" groups="pdk" revision="lollipop-mr1" />
   <project name="LegacyXperiaAOSP/android_hardware_ti_wlan" path="hardware/ti/wlan" revision="lollipop" />
   <project name="LegacyXperiaAOSP/android_packages_apps_Dialer" path="packages/apps/Dialer" revision="lollipop-mr1"/>
