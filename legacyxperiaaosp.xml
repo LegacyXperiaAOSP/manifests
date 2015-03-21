@@ -6,7 +6,7 @@
   <project path="bionic" name="LegacyXperiaAOSP/android_bionic" groups="pdk" revision="lollipop-mr1" />
   <project path="frameworks/base" name="LegacyXperiaAOSP/android_frameworks_base" groups="pdk" revision="lollipop-mr1" />
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" groups="pdk" />
-  <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" groups="pdk" />
+  <project path="frameworks/native" name="LegacyXperiaAOSP/android_frameworks_native" groups="pdk" revision="lollipop-mr1" />
   <project path="hardware/libhardware" name="LegacyXperiaAOSP/android_hardware_libhardware" groups="pdk" revision="lollipop-mr1" />
   <project path="packages/apps/Dialer" name="LegacyXperiaAOSP/android_packages_apps_Dialer" revision="lollipop-mr1" />
   <project path="packages/apps/InCallUI" name="LegacyXperiaAOSP/android_packages_apps_InCallUI" revision="lollipop-mr1" />
