@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="bionic" name="CyanogenMod/android_bionic" groups="pdk" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" />
   <project path="device/qcom/sepolicy" name="CyanogenMod/android_device_qcom_sepolicy" />
+  <project path="external/android-visualizer" name="CyanogenMod/android_external_android-visualizer" />
+  <project path="external/busybox" name="CyanogenMod/android_external_busybox" />
   <project path="external/e2fsprogs" name="CyanogenMod/android_external_e2fsprogs" groups="pdk" />
   <project path="external/exfat" name="CyanogenMod/android_external_exfat" />                            
-  <project path="external/fsck_msdos" name="CyanogenMod/android_external_fsck_msdos" groups="pdk-cw-fs" />
   <project path="external/ffmpeg" name="CyanogenMod/android_external_ffmpeg" />
-  <project path="external/android-visualizer" name="CyanogenMod/android_external_android-visualizer" />
-  <project path="external/stagefright-plugins" name="CyanogenMod/android_external_stagefright-plugins" />
-  <project path="external/pigz" name="CyanogenMod/android_external_pigz" />
+  <project path="external/fsck_msdos" name="CyanogenMod/android_external_fsck_msdos" groups="pdk-cw-fs" />
   <project path="external/fuse" name="CyanogenMod/android_external_fuse" />
+  <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" groups="pdk" />
   <project path="external/libtar" name="CyanogenMod/android_external_libtar" />
-  <project path="external/zlib" name="CyanogenMod/android_external_zlib" groups="pdk" />
-  <project path="hardware/akm" name="CyanogenMod/android_hardware_akm" groups="pdk" />
+  <project path="external/pigz" name="CyanogenMod/android_external_pigz" />
   <project path="external/skia" name="CyanogenMod/android_external_skia" groups="pdk-cw-fs,qcom_msm8x26" />
+  <project path="external/stagefright-plugins" name="CyanogenMod/android_external_stagefright-plugins" />
+  <project path="external/zlib" name="CyanogenMod/android_external_zlib" groups="pdk" />
   <project path="hardware/broadcom/libbt" name="CyanogenMod/android_hardware_broadcom_libbt" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" groups="broadcom_wlan" />
-  <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
-  <project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" revision="cm-12.0" />
-  <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" groups="invensense" />
-  <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/qcom/audio/default" name="CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
   <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" groups="qcom" />
@@ -31,6 +27,8 @@
   <project path="hardware/qcom/wlan" name="CyanogenMod/android_hardware_qcom_wlan" groups="qcom_wlan" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" groups="pdk" />
   <project path="hardware/ril-caf" name="CyanogenMod/android_hardware_ril" groups="pdk" revision="cm-12.0-caf" />
+  <project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" revision="cm-12.0" />
+  <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
   <project path="packages/apps/AudioFX" name="CyanogenMod/android_packages_apps_AudioFX" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
