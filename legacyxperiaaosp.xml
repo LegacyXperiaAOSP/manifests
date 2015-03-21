@@ -11,5 +11,5 @@
   <project path="packages/apps/Dialer" name="LegacyXperiaAOSP/android_packages_apps_Dialer" revision="lollipop-mr1" />
   <project path="packages/apps/InCallUI" name="LegacyXperiaAOSP/android_packages_apps_InCallUI" revision="lollipop-mr1" />
   <project path="packages/apps/Mms" name="LegacyXperiaAOSP/android_packages_apps_Mms" revision="lollipop-mr1" />
-  <project path="vendor/LegacyXperiaAOSP" name="LegacyXperiaAOSP/android_vendor_LegacyXperiaAOSP" revision="lollipop" />
+  <project path="vendor/LegacyXperiaAOSP" name="LegacyXperiaAOSP/android_vendor_LegacyXperiaAOSP" revision="lollipop-mr1" />
 </manifest>
