@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project path="manifests" name="LegacyXperiaAOSP/manifests" revision="lollipop-mr1" />
   <project path="build" name="LegacyXperiaAOSP/android_build" groups="pdk,tradefed" revision="lollipop-mr1" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
