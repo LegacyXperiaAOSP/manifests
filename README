@@ -1,19 +1,19 @@
 LegacyXperiaAOSP Project platform manifests
 
-##	AOSP 5.0.2 
+##	AOSP 5.1
 ##	
 ##	Now only for msm7x30 Xperia 2011 device
 
 Just do
 
-$ repo init -u https://github.com/LegacyXperiaAOSP/manifests.git -b lollipop
+$ repo init -u https://github.com/LegacyXperiaAOSP/manifests.git -b lollipop-mr1
 
 then
 
 $ repo sync
 
-Run updates.sh from /vendor/LegacyXperiaAOSP/extras before build and apply this change manually https://github.com/CyanogenMod/android_external_chromium_org/commit/faebc79552c8867295203c88d804c1f56c39114c (I will add it to repo ASAP). This one needs to be reverted in android_build to fix boot: https://github.com/CyanogenMod/android_build/commit/4b86ea582b77fc2bd8a0811b5af7ada28a0b59fb 
-Material MMS app needs some work, use aosp one now
+Run updates.sh from /vendor/LegacyXperiaAOSP/extras before build 
+
 NOTICE:
 
 If you want to build AOSP 4.1/4.2.2 for Xperia 2011 lineup go to official PolishBloodProject Github there:
