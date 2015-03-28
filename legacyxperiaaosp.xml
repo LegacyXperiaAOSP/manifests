@@ -18,5 +18,6 @@
   <project path="packages/apps/Dialer" name="LegacyXperiaAOSP/android_packages_apps_Dialer" remote="lx" />
   <project path="packages/apps/InCallUI" name="LegacyXperiaAOSP/android_packages_apps_InCallUI" remote="lx" />
   <project path="packages/apps/Mms" name="LegacyXperiaAOSP/android_packages_apps_Mms" remote="lx" />
+  <project path="packages/apps/Settings" name="LegacyXperiaAOSP/android_packages_apps_Settings" remote="lx" />
   <project path="vendor/LegacyXperiaAOSP" name="LegacyXperiaAOSP/android_vendor_LegacyXperiaAOSP" remote="lx" />
 </manifest>
