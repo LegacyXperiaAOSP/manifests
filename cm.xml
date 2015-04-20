@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="cm"
-           revision="staging/cm-12.1"
+           revision="cm-12.1"
            review="review.cyanogenmod.org"
            fetch=".." />
 
@@ -18,6 +18,7 @@
   <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" groups="pdk" remote="cm" />
   <project path="external/libselinux" name="CyanogenMod/android_external_libselinux" groups="pdk" remote="cm" />
   <project path="external/libtar" name="CyanogenMod/android_external_libtar" remote="cm" />
+  <project path="external/lz4" name="CyanogenMod/android_external_lz4" remote="cm" />
   <project path="external/pigz" name="CyanogenMod/android_external_pigz" remote="cm" />
   <project path="external/skia" name="CyanogenMod/android_external_skia" groups="pdk-cw-fs,qcom_msm8x26" remote="cm" />
   <project path="external/stagefright-plugins" name="CyanogenMod/android_external_stagefright-plugins" remote="cm" />
