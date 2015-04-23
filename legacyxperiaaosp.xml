@@ -14,7 +14,6 @@
   <project path="frameworks/base" name="LegacyXperiaAOSP/android_frameworks_base" groups="pdk" remote="lx" />
   <project path="frameworks/native" name="LegacyXperiaAOSP/android_frameworks_native" groups="pdk" remote="lx" />
   <project path="hardware/libhardware" name="LegacyXperiaAOSP/android_hardware_libhardware" groups="pdk" remote="lx" />
-  <project path="hardware/ril" name="LegacyXperiaAOSP/android_hardware_ril" groups="pdk" remote="lx" />
   <project path="packages/apps/Dialer" name="LegacyXperiaAOSP/android_packages_apps_Dialer" remote="lx" />
   <project path="packages/apps/InCallUI" name="LegacyXperiaAOSP/android_packages_apps_InCallUI" remote="lx" />
   <project path="packages/apps/Mms" name="LegacyXperiaAOSP/android_packages_apps_Mms" remote="lx" />
